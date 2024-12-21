@@ -114,5 +114,3 @@ def faz_processamento_de_visualizacao(lista = None):
 faz_processamento_de_visualizacao() 
 faz_processamento_de_visualizacao()
 faz_processamento_de_visualizacao()
-
-
